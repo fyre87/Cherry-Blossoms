@@ -10,3 +10,5 @@ The data given to us by the competition is in the "data" file which has bloom ra
 All of the "[PLACE]merged.dta" files in the CherryBlossomData folder contain the data with the predicted dates that should be created by the "Regressions.do" file.
 If for some reason you cannot get the .do file to work, you can check those .dta files for what the output of our stata code is.
 From those .dta files, we hand entered in our predictions to the .csv file which has our final predictions for when we think the Cherry Blossoms will blossom. 
+
+Finally, all of our Vancouver previously obtained bloom date data came from this: https://forums.botanicalgarden.ubc.ca/threads/kerrisdale.36008/
