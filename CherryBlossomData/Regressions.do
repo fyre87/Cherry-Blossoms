@@ -415,10 +415,10 @@ global folder "/Users/WilliamJamesonPattie_/Desktop/CherryBlossomData/"
 	replace gdd = 15 if year == 2018
 	replace gdd = 18 if year == 2020
 	replace gdd = 23 if year == 2021
-	replace bloomdate = 91 if year == 2016
-	replace bloomdate = 87 if year == 2018
-	replace bloomdate = 92 if year == 2020
-	replace bloomdate = 88 if year == 2021
+	replace bloomdate = 92 if year == 2016
+	replace bloomdate = 88 if year == 2018
+	replace bloomdate = 93 if year == 2020
+	replace bloomdate = 89 if year == 2021
 	
 	//reg bloomdate gdd
 	
